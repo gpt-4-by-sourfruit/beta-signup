@@ -249,6 +249,7 @@ footer {
 	position: absolute;
 	bottom: 0;
 	width: 100%;
+	padding: 20px;
    }
 
 pre {
@@ -285,8 +286,7 @@ h2 {
 	text-align: center;
 }
 
-/* Mixins */
-/* bg shortcodes */
+
 .bg-gradient1 span,
 .bg-gradient1:before {
 	background: #52A0FD;
