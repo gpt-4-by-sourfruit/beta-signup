@@ -197,7 +197,6 @@ a:hover, a:focus, a:active {
 	font-family: 'Montserrat', Helvetica, Arial, sans-serif;
 	font-size: 17px;
 	letter-spacing: 0.03em;
-	text-transform: uppercase;
 	color: #ffffff;
 	position: relative;
 }
@@ -280,7 +279,7 @@ a:hover, a:focus, a:active {
 	transition: all 0.2s ease-out;
 }
 
-span {
+.spanL {
 	color: #66f
 }
 
